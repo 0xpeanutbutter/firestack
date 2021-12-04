@@ -1,4 +1,4 @@
-# minifire
+# fintracker
 
 A new Flutter project.
 

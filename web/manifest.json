@@ -1,6 +1,6 @@
 {
-    "name": "minifire",
-    "short_name": "minifire",
+    "name": "fintracker",
+    "short_name": "fintracker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

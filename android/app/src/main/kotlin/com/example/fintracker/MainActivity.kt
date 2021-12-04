@@ -1,4 +1,4 @@
-package com.example.minifire
+package com.example.fintracker
 
 import io.flutter.embedding.android.FlutterActivity
 
